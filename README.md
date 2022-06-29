@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+- 🐈 I like cats a lot ...
 <!---
 emm200/emm200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-i like cats a lot.
+v.1.0.1
+- Added cat comment
+
 --->
