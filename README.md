@@ -9,5 +9,5 @@
 - 🐈 I like cats a lot ...
 
 //=== Some thoughts ===<br>
-- Why is no one talking about Jesus miracle of having 12 close friends in his 30s?
+- Why is no one talking about Jesus' miracle of having 12 close friends in his 30's?
 - If your're reading this it probably means you have even more free time than I do.
