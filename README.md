@@ -1,5 +1,5 @@
 //===========================================<br>
-//=============== Version ===================<br>
+//=============== Version ======================<br>
 //= 1.0 Initial release<br>
 //= 1.1 Added cat comment<br>
 //= 1.2 Added 'Some Thoughts' section<br>
