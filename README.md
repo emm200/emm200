@@ -4,7 +4,7 @@
 //= 1.1 Added cat comment<br>
 //= 1.2 Added 'Some Thoughts' section<br>
 //===========================================<br>
-<br>
+
 - 👋 Hi, I’m @emm200
 - 🐈 I like cats a lot ...
 
