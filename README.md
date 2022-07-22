@@ -1,9 +1,13 @@
+//===========================================
+//=============== Version ===================
+//= 1.0 Initial release
+//= 1.1 Added cat comment
+//= 1.2 Added 'Some Thoughts' section
+//===========================================
+
 - 👋 Hi, I’m @emm200
 - 🐈 I like cats a lot ...
-<!---
-emm200/emm200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-v.1.0.1
-- Added cat comment
---->
+//=== Some thoughts ===
+- Why is no one talking about Jesus miracle of having 12 close friends in his 30s?
+- If your're reading this it probably means you have even more free time than I do.
