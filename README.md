@@ -7,6 +7,7 @@
 
 - 👋 Hi, I’m @emm200
 - 🐈 I like cats a lot ...
+- Can't live without me? become my bff **drifter#1289**
 
 //=== Some thoughts ===<br>
 - Why is no one talking about Jesus' miracle of having 12 close friends in his 30's?
